@@ -23,6 +23,8 @@ pw : sefdanny12
 + git log / $ git log -3 (3 commit terakhir) / $ git log -- style.css (SPESIFIK MELIHAT COMMIT MANA DARI FILE TERTENTU)
 + git checkout
 ---
+# GIT COMMAND
+
 +$ pwd
 +$ ls
 
