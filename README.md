@@ -151,6 +151,9 @@ pw : sefdanny12
 +git merge asli/main
 
 +$ git push -u origin(nama remote) master(branch)
+
+	$ git remote rm origin
+	$ git remote add origin git@github.com:username/myapp.git
 ---
 
 +.gitignore
