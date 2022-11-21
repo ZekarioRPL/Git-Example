@@ -1,0 +1,14 @@
+\ artinya bilangan bulat setelah di bagi
+Mod artinya sisa dari pembagian
+
+https://www.youtube.com/watch?v=HFWQdGn5DaU&t=3259s
+1:11:38
+
+--
+Dim stName As String
+
+Do while stName <> "KEVIN"
+	stName = InputBox("Please Enter Your Name")
+Loop
+
+msgBox("Hello " & stName)
