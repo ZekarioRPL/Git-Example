@@ -2,3 +2,14 @@ vb - 7 - Error -> 2:11
 
 https://www.youtube.com/watch?v=nif7ViGaNrs&list=PLC601DEA22187BBF1&index=36
 
+Visual Basic Tutorial - 39 - MessageBoxes
+Visual Basic Tutorial - 40 - MessageBox Input
+Visual Basic Tutorial - 41 - Input Box
+Visual Basic Tutorial - 44 - ByVal
+Visual Basic Tutorial - 45 - ByRef
+Visual Basic Tutorial - 46 - Optional ByVal
+Visual Basic Tutorial - 47 - Coercion / typedata that
+Visual Basic Tutorial - 48 - Exit Subs / menghentikan Proses
+Visual Basic Tutorial - 49 - Events
+Visual Basic Tutorial - 50 - Global Variables
+
