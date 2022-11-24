@@ -1,4 +1,5 @@
 vb - 7 - Error -> 2:11
+belajar grafik.
 
 https://www.youtube.com/watch?v=nif7ViGaNrs&list=PLC601DEA22187BBF1&index=36
 
@@ -12,4 +13,5 @@ Visual Basic Tutorial - 47 - Coercion / typedata that
 Visual Basic Tutorial - 48 - Exit Subs / menghentikan Proses
 Visual Basic Tutorial - 49 - Events
 Visual Basic Tutorial - 50 - Global Variables
-
+Visual Basic Tutorial - 52 - Math Class
+Visual Basic Tutorial - 53 - CType +
